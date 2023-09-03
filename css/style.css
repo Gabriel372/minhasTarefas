@@ -1,0 +1,26 @@
+*{
+list-style: none;
+}
+.done{
+text-decoration: line-through;    
+}
+.chekOn{
+background-color: rgb(175, 173, 173);    
+}
+.square{
+max-width: 600px;
+min-height: 500px;
+border: 1px solid gray; 
+margin-top: 10px;
+}
+.inputBtn{
+max-width: 280px;
+}
+li{
+background-color: rgb(231, 231, 231);  
+border: 4px solid white;  
+}
+.btnLi{
+border: 1.5px solid gray;
+border-radius: 3px;
+}
